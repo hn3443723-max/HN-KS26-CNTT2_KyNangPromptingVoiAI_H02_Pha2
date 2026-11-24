@@ -63,13 +63,13 @@
 
 **KET QUA AI**
 
-```text
+
 | Tiêu chí | Điểm | Minh chứng | Đề xuất sửa |
-|---|---:|---|---|
+|---|---|---|---|
 | Đúng thông tin | 0,0/5,0 | **Lỗi 1:** “Vé Sân Vận Động bên em giá 1.000.000đ/người” → Sai vì giá chuẩn SVT là **1.200.000 đồng/người lớn**. **Lỗi 2:** “Anh huỷ trước 3 ngày thì được hoàn tiền đầy đủ nha anh.” → Sai vì huỷ **từ 3 đến 6 ngày trước sự kiện chỉ được hoàn 50%**, không phải 100%. | **Câu sửa:** “Vé Sân Vận Động có giá 1.200.000 đồng/người lớn. Nếu anh huỷ trước trận 3 ngày thì được hoàn 50% giá trị vé.” |
 | Đầy đủ | 2,0/3,0 | Nhân viên đã trả lời cả **giá vé** và **chính sách huỷ**, nhưng không thực hiện yêu cầu mời khán giả cung cấp **ngày trận đấu và số lượng vé để đặt**. | **Câu sửa:** “Anh vui lòng cung cấp ngày trận đấu và số lượng vé cần đặt để em hỗ trợ anh ạ.” |
 | Giọng điệu | 1,0/2,0 | **Lỗi:** “xem rất đã luôn ạ” và “nha anh” → Cách diễn đạt khá suồng sã, chưa phù hợp hoàn toàn với phong cách tư vấn bán vé chuyên nghiệp. | **Câu sửa:** “Dạ, em rất sẵn lòng hỗ trợ anh. Anh vui lòng cho em biết ngày trận đấu và số lượng vé cần đặt ạ.” |
 | **Tổng** | **3,0/10** | Bài làm sai cả **giá vé** và **mức hoàn tiền**, đồng thời thiếu thông tin cần thiết để tiếp tục đặt vé. | — |
-```
+
 
 **Link trò chuyện:https://chatgpt.com/c/6b0554ca-840c-83ec-adb5-5ed63a56cc1d**
